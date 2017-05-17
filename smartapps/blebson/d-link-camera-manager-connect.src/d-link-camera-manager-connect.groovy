@@ -18,7 +18,7 @@ definition(
     name: "D-Link Camera Manager (Connect)",
     namespace: "blebson",
     author: "Ben Lebson",
-    description: "This smartapp installs the D-Link Camera Manager (Connect) App so you can add multiple D-Link IP cameras",
+    description: "This smartapp installs the D-Link Camera Manager (Connect) App so you can add multiple D-Link IP cameras - By Dave E.!",
     category: "Safety & Security",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Camera/dlink.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Camera/dlink@2x.png",
